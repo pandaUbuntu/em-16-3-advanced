@@ -115,6 +115,7 @@ namespace ATM
                 }
 
                 Console.WriteLine("\nSession completed.\n");
+                Console.WriteLine();
             }
         }
     }
