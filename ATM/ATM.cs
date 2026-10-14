@@ -9,7 +9,7 @@ namespace ATM
     {
         private BankCardManager cardManager;
         private List<Banknote> vault;
-        private const int MaxBanknotesPerTransaction = 30;
+        private const int MaxBanknotesPerTransaction = 40;
 
         public ATM()
         {
