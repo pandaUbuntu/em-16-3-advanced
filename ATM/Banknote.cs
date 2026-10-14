@@ -8,10 +8,10 @@ namespace ATM
         public int Denomination { get; private set; }
         public int Count { get; set; }
 
-        public Banknote(int denomination, int count)
+        public Banknote(int denomination)
         {
             Denomination = denomination;
-            Count = count;
+            Count = 0;
         }
     }
 }
