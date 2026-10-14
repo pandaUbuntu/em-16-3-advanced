@@ -22,8 +22,7 @@ namespace ATM
 
         public string GetCardNumber() => cardNumber;
         public string GetPin() => pin;
-        public decimal GetBalance() => balance;
-        public string GetOwnerName() => ownerName;
+        
 
         public void BlockCard()
         {
