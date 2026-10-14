@@ -6,6 +6,19 @@ namespace ATM
 {
     internal class Program
     {
+        // git init 
+        // git add
+        // git commit 
+        // git remote
+        // git push
+        // git status
+
+        // git branch
+        // git pull
+        // git checkout
+        // git merge
+        // git tag
+
         static void Main(string[] args)
         {
             Console.OutputEncoding = System.Text.Encoding.UTF8;
