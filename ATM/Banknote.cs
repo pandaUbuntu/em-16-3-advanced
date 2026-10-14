@@ -13,5 +13,10 @@ namespace ATM
             Denomination = denomination;
             Count = 0;
         }
+
+        public int getCount()
+        {
+            return 0;
+        }
     }
 }
