@@ -24,7 +24,6 @@ namespace ATM
         public string GetPin() => pin;
         public decimal GetBalance() => balance;
         public string GetOwnerName() => ownerName;
-        public bool IsBlocked => isBlocked;
 
         public void BlockCard()
         {
